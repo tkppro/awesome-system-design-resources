@@ -15,7 +15,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/) [x]
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/) [x]
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/) [x]
-- [ACID Transactions](https://redis.com/glossary/acid-transactions/) []
+- [ACID Transactions](https://redis.com/glossary/acid-transactions/) [x]
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/) []
 - [Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing/) []
 - [Database Index](https://www.progress.com/tutorials/odbc/using-indexes) []
