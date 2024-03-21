@@ -20,7 +20,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing/) [x]
 - [Database Index](https://www.progress.com/tutorials/odbc/using-indexes) [x]
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/) [x]
-- [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9) []
+- [ ] [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9) - [ ] 
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) []
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) []
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7) []
