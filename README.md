@@ -22,7 +22,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/) [x]
 - [x] [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9) - [X] 
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) [x]
-- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) []
+- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) [x]
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7) []
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/) []
 - [Synchronous vs. asynchronous communications](https://www.techtarget.com/searchapparchitecture/tip/Synchronous-vs-asynchronous-communication-The-differences) []
